@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form input {
+  width: 250px;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+.form textarea {
+  padding: 10px;
+}
+
+.form button {
+  border: none;
+  padding: 10px;
+  background-color: white;
+  background-color: #6deb50;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
